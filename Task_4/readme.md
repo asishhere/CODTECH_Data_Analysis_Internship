@@ -6,7 +6,7 @@
 ```
 bash 
 
-git clone [https://github.com/Murli0810/CODTECH-Data-Analysis-Internship.git](https://github.com/Murli0810/CODTECH-Data-Analysis-Internship.git)
+git clone [https://github.com/asishhere/CODTECH-Data-Analysis-Internship.git]
 
 ```
 2. Set up local virtual environment and dependencies:
